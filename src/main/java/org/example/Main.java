@@ -52,11 +52,4 @@ public class Main {
                 System.out.println("число не равно 555, 666, 777");
         }
         }
-
-
-
-
-
-
-
     }
